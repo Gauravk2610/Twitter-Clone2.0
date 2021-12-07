@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Deployment Link
+[https://twitter-clone-2-a9b96.web.app/](https://twitter-clone-2-a9b96.web.app/)
 ## Available Scripts
 
 In the project directory, you can run:

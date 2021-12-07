@@ -16,7 +16,7 @@ function Home() {
             <div className='hidden sm:inline-grid sm:col-span-1 md:inline-grid md:col-span-1  xl:inline-grid xl:col-span-2 h-screen overflow-y-scroll scrollbar-hide sticky top-0'>
                 <Menu />
             </div>
-            <div className='col-span-7 lg:col-span-4 xl:col-span-5 mb-12 sm:mb-0 h-screen bg-black'>
+            <div className='col-span-7 lg:col-span-4 xl:col-span-5 mb-12 md:mb-0'>
                 <Feed />
             </div>
             <div className='hidden lg:inline-grid lg:col-span-2 xl:col-span-3'>
